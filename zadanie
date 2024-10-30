@@ -1,0 +1,51 @@
+Podstawy pracy z plikami:
+
+    Utwórz nowy folder o nazwie kolokwium.
+    W tym folderze utwórz pusty plik tekstowy o nazwie wynik.txt.
+    Dodaj do pliku wynik.txt swoje imię i nazwisko, używając komendy echo.
+
+Praca z katalogami i plikami:
+
+    Skopiuj plik wynik.txt do nowego katalogu backup.
+    Przenieś skopiowany plik wynik.txt z powrotem do głównego folderu kolokwium.
+
+Modyfikacja i przegląd plików:
+
+    Dopisz do pliku wynik.txt bieżącą datę i godzinę.
+    Wykorzystaj komendę cat, aby wyświetlić zawartość wynik.txt w terminalu i upewnić się, że dane zostały zapisane.
+
+
+Sprawdzenie ścieżki i struktury katalogów:
+
+    Użyj komendy pwd, aby zapisać swoją bieżącą ścieżkę do pliku sciezka.txt.
+    Dodaj plik sciezka.txt do repozytorium i skommituj zmiany.
+
+Przegląd struktury katalogów:
+
+    Uruchom komendę tree w katalogu głównym projektu i zapisz wynik do pliku struktura_katalogow.txt.
+    Dodaj struktura_katalogow.txt do repozytorium i skommituj zmiany.
+
+Analiza zawartości plików:
+
+    Użyj komendy wc -l na pliku wynik.txt, aby policzyć liczbę linii, i zapisz wynik do pliku liczba_linii.txt.
+    Skommituj i prześlij ten plik na GitHubie.
+
+Podstawowa edycja pliku:
+
+    Użyj echo lub nano, aby dodać linijkę tekstu "Kolokwium zaliczone!" do pliku wynik.txt.
+    Skommituj plik po modyfikacji i dodaj notatkę w opisie commitu, np. „Edycja pliku wynik.txt”.
+
+Podstawowe operacje na GitHubie:
+
+    Po zakończeniu zadań, skommituj swoje zmiany (z krótkim opisem w stylu „Wyniki kolokwium”).
+    Zrób push zmian na swoje repozytorium na GitHubie.
+
+
+
+-----------------------------------------------------------------------------------------
+Dodatkowe:
+
+Zarządzanie procesami i zasobami systemowymi:
+
+    Użyj komendy ps lub top, aby zapisać listę bieżących procesów do pliku procesy.txt.
+    Dodaj ten plik do repozytorium i skommituj.
