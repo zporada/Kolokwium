@@ -2,7 +2,9 @@ Podstawy pracy z plikami:
 
     Utwórz nowy folder o nazwie kolokwium.
     W tym folderze utwórz pusty plik tekstowy o nazwie wynik.txt.
-    Dodaj do pliku wynik.txt swoje imię i nazwisko, używając komendy echo.
+    Dodaj do pliku wynik.txt swoje imię i nazwisko, używając komendy:
+	echo, nano, lub przekazując tekst poprzez znaki mniejszości/większości.
+
 
 Praca z katalogami i plikami:
 
@@ -34,6 +36,10 @@ Podstawowa edycja pliku:
 
     Użyj echo lub nano, aby dodać linijkę tekstu "Kolokwium zaliczone!" do pliku wynik.txt.
     Skommituj plik po modyfikacji i dodaj notatkę w opisie commitu, np. „Edycja pliku wynik.txt”.
+
+Pakowanie plików:
+
+    Skompresuj utworzone przez Ciebie pliki i umieść w repozytorium.
 
 Podstawowe operacje na GitHubie:
 
